@@ -1,0 +1,4 @@
+:5008 {
+    root * ./src
+    file_server
+}
